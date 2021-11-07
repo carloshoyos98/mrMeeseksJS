@@ -1,0 +1,17 @@
+{
+  "name": "meeseks",
+  "version": "1.0.0",
+  "description": "Original MrMeeseks state module",
+  "main": "mr_meeseks.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Carlos Andres Hoyos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}

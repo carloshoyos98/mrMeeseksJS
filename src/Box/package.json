@@ -1,0 +1,17 @@
+{
+  "name": "box",
+  "version": "1.0.0",
+  "description": "MrMeeseks generator box",
+  "main": "box.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Carlos Andres Hoyos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}

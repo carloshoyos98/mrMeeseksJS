@@ -1,0 +1,1 @@
+//Logic of the box -- Singleton

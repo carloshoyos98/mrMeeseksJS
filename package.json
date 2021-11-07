@@ -1,0 +1,23 @@
+{
+  "name": "mrmeseeksjs",
+  "version": "1.0.0",
+  "description": "Rick and Morty MrMeeseks box episode",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloshoyos98/mrMeeseksJS.git"
+  },
+  "keywords": [
+    "module-pattern",
+    "prototipado"
+  ],
+  "author": "Carlos Andres Hoyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloshoyos98/mrMeeseksJS/issues"
+  },
+  "homepage": "https://github.com/carloshoyos98/mrMeeseksJS#readme"
+}
