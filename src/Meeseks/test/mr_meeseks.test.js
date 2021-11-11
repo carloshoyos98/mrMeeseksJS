@@ -1,6 +1,4 @@
 //mrMeeseks test file
-const { expect } = require('@jest/globals');
-
 //Modulo MrMeeseks
 
 const generate = require('../mr_meeseks');
